@@ -1,0 +1,18 @@
+{
+    "AddRequestData":{
+     "productName": "Name",
+     "spec1": "spec",
+     "spec2": "spec",
+     "spec3": "spec"
+    },
+
+    "UpdateRequestData":{
+        "productName": "Name",
+        "spec1": "spec",
+        "spec2": "spec",
+        "spec3": "spec"
+       }
+
+    }
+
+    
